@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: experience
 permalink: /cv/
 title: Experience
 nav: true
