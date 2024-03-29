@@ -21,7 +21,7 @@
       "url": "https://mmlab.ie.cuhk.edu.hk/",
       "area": "Information Engineering Department",
       "studyType": "Ph.D.",
-      "startDate": "2023-08",
+      "startDate": "2023",
       "courses": ["3D Scene Generation", "Single-view NVS"]
     },
     {
@@ -30,8 +30,8 @@
       "url": "https://www.nju.edu.cn/EN/main.htm",
       "area": "Department of Computer Science and Technology",
       "studyType": "Master",
-      "startDate": "2020-09",
-      "endDate": "2023-07",
+      "startDate": "2020",
+      "endDate": "2023",
       "courses": ["Temporal Action Detection","Video Understanding"]
     },
     {
@@ -40,8 +40,8 @@
       "url": "https://www.nju.edu.cn/EN/main.htm",
       "area": "Kuang Yaming Honors School",
       "studyType": "Bachelor",
-      "startDate": "2016-09",
-      "endDate": "2020-07"
+      "startDate": "2016",
+      "endDate": "2020"
     }
   ],
   "awards": [
