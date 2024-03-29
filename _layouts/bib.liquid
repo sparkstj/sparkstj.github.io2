@@ -76,8 +76,8 @@
         {% endif %}
         {%- if author_is_self -%}
           <em>
-            {{- author.first }}
-            {{ author.last -}}
+            {{- <strong>author.first<strong> }}
+            {{ <strong>author.last<strong> -}}
           </em>
         {%- else -%}
           {%- if coauthor_url -%}
