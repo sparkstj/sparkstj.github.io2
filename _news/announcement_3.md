@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to [CVPR](https://cvpr.thecvf.com/).
+One paper is accepted by [CVPR](https://cvpr.thecvf.com/).
