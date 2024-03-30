@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  Ph.D. Student @ MMLab, CUHK   
+subtitle: 
 
 profile:
   align: right
