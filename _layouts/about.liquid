@@ -59,10 +59,18 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Papers</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <!-- Services -->
+      <h2>
+        Services
+      </h2>
+      <li><b>Reviewer</b> for CVPR (Since 2023), ECCV'24, ICCV'23, NeurIPS'23, ICLR'24, ICML'24 and IJCV. </li>
+      <li><b>Teaching Assistant</b> for <a href="https://www.ie.cuhk.edu.hk/courses/ierg4998-final-year-project-i/" style="color: inherit">IERG4998</a> and <a href="https://www.ie.cuhk.edu.hk/courses/ierg4999-final-year-project-ii/" style="color: inherit">IERG4999</a> in CUHK</li>
+    <br>
 
     <!-- Social -->
     {% if page.social %}

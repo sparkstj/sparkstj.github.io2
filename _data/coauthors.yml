@@ -1,11 +1,11 @@
-"Wang":
+"wang":
   - firstname: ["Limin"]
     url: http://wanglimin.github.io/
 
-"Wu":
-  - firstname: ["Gangshan"]
+"wu":
+  - firstname: ["Gangshan", "gangshan"]
     url: https://mcg.nju.edu.cn/member/gswu/en/index.html
 
-"Wu":
-  - firstname: ["Tong"]
-    url: https://wutong16.github.io/
+# "wu":
+#   - firstname: ["Tong"]
+#     url: https://wutong16.github.io/
