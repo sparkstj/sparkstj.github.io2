@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Temporal Perceiver is accepted by [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)!
+Temporal Perceiver is accepted to [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)!

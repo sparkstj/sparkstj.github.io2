@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting in 2023 Fall, I will pursue my doctoral research in [MMLab CUHK](http://mmlab.ie.cuhk.edu.hk/index.html).
+I will start my doctoral research at [MMLab CUHK](http://mmlab.ie.cuhk.edu.hk/index.html) in 2023 fall.
