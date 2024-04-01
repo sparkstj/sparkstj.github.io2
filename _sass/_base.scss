@@ -19,6 +19,15 @@ strong {
   color: var(--global-text-color);
 }
 
+// <uniquifier>: Use a unique and descriptive class name
+
+.roboto-mono {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
 body {
   font-family: 'Roboto Mono', sans-serif;
 }
