@@ -17,6 +17,18 @@ body {
   }
 }
 
+table {
+  td ,
+  th {
+    font-size: 1rem;
+    padding: 0.3rem;
+  }
+
+  th {
+    font-weight: bold;
+  }
+}
+
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
   padding-top: 56px;

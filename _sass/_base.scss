@@ -19,18 +19,23 @@ strong {
   color: var(--global-text-color);
 }
 
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 table {
   td ,
   th {
     font-size: 1rem;
-    padding-top: 0.3rem;
-    padding-bottom: 0.3rem;
+    padding: 0.3rem !important;
   }
 
   th {
     font-weight: bold;
   }
 }
+
+.table td, .table th {padding: .3em !important;}
 
 a,
 table.table a {
@@ -40,6 +45,8 @@ table.table a {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
+  
+  padding: 0.3rem !important;
 
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
