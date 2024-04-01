@@ -4,9 +4,6 @@
 
 // Typography
 
-
-
-
 p,
 h1,
 h2,
@@ -23,7 +20,10 @@ strong {
 }
 
 table {
-  td ,
+  td {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
 
   th {
     font-size: 1rem;
