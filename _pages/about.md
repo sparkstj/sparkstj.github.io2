@@ -21,8 +21,8 @@ I am a 1st-year Ph.D. student in [MMLab](https://mmlab.ie.cuhk.edu.hk/) (Multime
 My research focuses on perceiving the world from understanding the foreground events to the creation of the 3D background. 
 
 Currently, I'm working on topics including but not limited to:
-- 3D Scene Creation from Limited View
-- Action Localization and Detection in Videos
+- 3D Scene Creation from Limited View,
+- Action Localization and Detection in Videos.
 
 I'm open to potential collaborations, please feel free to drop me an email if interested.
 <!-- generally lie in Computer Vision and Machine Learning, with a specific focus on 3D Content Creation and Video Understanding. -->
